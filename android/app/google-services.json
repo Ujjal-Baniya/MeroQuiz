@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696937115487",
+    "project_id": "meroquiz-55601",
+    "storage_bucket": "meroquiz-55601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696937115487:android:eb3cbdb8d4938be78a10ea",
+        "android_client_info": {
+          "package_name": "com.example.meroquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696937115487-pleqbue6rboloisde1ub4cttmn8u1q6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyiw6QDR8OLCO5BOO74Xqrilqu5Tww200"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696937115487-pleqbue6rboloisde1ub4cttmn8u1q6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
